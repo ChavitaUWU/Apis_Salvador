@@ -1,0 +1,27 @@
+#tablero{
+    width: 100%;
+    height: 100%;
+    margin: 1vh;
+}
+
+#fila{
+    display:flex;
+
+}
+#celula0{
+    width: 20px;
+    height: 20px;
+    margin: 1px;
+    background-color: #2ccfb4;
+    border-radius: 2px;
+    box-shadow: 0px 0px 0px 1px rgba(255, 255, 255,162);
+}
+
+#celula1{
+    width: 20px;
+    height: 20px;
+    margin: 1px;
+    background-color: #1c45ca;
+    border-radius: 2px;
+    box-shadow: 0px 0px 0px 1px rgba(255, 255, 255,162);
+}

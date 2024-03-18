@@ -1,0 +1,38 @@
+ion-content{
+z-index: -9000;
+--background: linear-gradient(to bottom right, rgb(5, 9, 240) , rgb(177, 65, 211) );
+}
+
+ion-title, ion-toolbar{
+    --background: rgb(101, 156, 223);
+    width: 100%;
+    height: 100%;
+}
+
+ion-card, ion-card-title, ion-card-subtitle{
+    position: center;
+    color: black;
+    padding: 5px;
+    border-radius: 15px;
+    width: 96%;
+    height: 100%;
+    --background: linear-gradient(to bottom right, rgb(87, 63, 175),rgb(226, 140, 28));
+    
+    
+}
+
+ion-title{
+    font-style: italic;
+    color: black;
+    
+}
+
+ion-button{
+    color:black;
+    
+
+}
+
+
+
+
